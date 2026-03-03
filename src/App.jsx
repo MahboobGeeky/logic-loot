@@ -64,7 +64,7 @@ function App() {
       {!isLoading && (
         <div className="backdrop-blur-md bg-white/10 border border-white/20 p-12 rounded-3xl shadow-2xl text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-10">
-            Have you registered the contest?
+            Have you registered the Logic Loot contest ?
           </h1>
 
           <div className="flex justify-center gap-10">
